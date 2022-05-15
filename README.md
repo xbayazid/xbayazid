@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Javascript, React, NodeJs**
 
-- 📫 How to reach me **bayazid.developer@gmail.com | bayazid.developer@gmail.com**
+- 📫 How to reach me **bayazid.developer@gmail.com | bayazid9006@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
