@@ -15,12 +15,13 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Get in touch:</h3>
 <p align="left">
 <a href="https://twitter.com/x_bayazid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x_bayazid" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md-bayazid-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-bayazid-hossain" height="30" width="40" /></a>
 <a href="https://fb.com/xbayazid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xbayazid" height="30" width="40" /></a>
 <a href="https://instagram.com/xbayazid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xbayazid" height="30" width="40" /></a>
+<a href="https://instagram.com/xbayazid" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Fresume-icon&psig=AOvVaw1rtOTPXZEOUbzZdUAa4Ge0&ust=1674572344151000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNizk5_63fwCFQAAAAAdAAAAABAE)" alt="xbayazid" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
